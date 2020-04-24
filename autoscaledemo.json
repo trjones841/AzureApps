@@ -1,0 +1,19 @@
+"extensionProfile": {
+  "extensions": [
+    {
+      "name": "AppInstall",
+      "properties": {
+        "publisher": "Microsoft.Azure.Extensions",
+        "type": "CustomScript",
+        "typeHandlerVersion": "2.0",
+        "autoUpgradeMinorVersion": true,
+        "settings": {
+          "fileUris": [
+            "https://github.com/trjones841/AzureApps/blob/master/autoscaledemo.sh"
+          ],
+          "commandToExecute": "bash autoscaledemo.sh"
+        }
+      }
+    }
+  ]
+}

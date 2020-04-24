@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a74caf67-39d7-444e-8988-52d46b27d82e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/autoscaledemo.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/autoscaledemo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoscaledemo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/autoscaledemo.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,7 +37,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587760821614</updated>
-      <workItem from="1587760827480" duration="472000" />
+      <workItem from="1587760827480" duration="856000" />
     </task>
     <servers />
   </component>
