@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a74caf67-39d7-444e-8988-52d46b27d82e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/autoscaledemo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/autoscaledemo.json" beforeDir="false" afterPath="$PROJECT_DIR$/autoscaledemo.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/autoscaledemo.sh" beforeDir="false" afterPath="$PROJECT_DIR$/autoscaledemo.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -22,8 +23,10 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
@@ -37,7 +40,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587760821614</updated>
-      <workItem from="1587760827480" duration="856000" />
+      <workItem from="1587760827480" duration="2176000" />
     </task>
     <servers />
   </component>
