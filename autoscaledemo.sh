@@ -6,9 +6,7 @@
 echo "Citrix Auto-Scale Demo - host $HOSTNAME !"
 sudo apt update
 sudo apt install -y apache2
-sudo ufw allow 'Apache'
-sudo ufw status
-sudo systemctl status apache2
+
 #
 # sudo mkdir /var/www/my_domain
 # sudo chown -R $USER:$USER /var/www/my_domain
