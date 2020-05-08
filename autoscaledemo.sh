@@ -3,7 +3,7 @@
 # Script as required to add/update the application running on apache2
 # in the Azure vmss.
 #
-echo "Citrix Auto-Scale Demo - host" $HOSTNAME "!"
+echo "Citrix Auto-Scale Demo - host $HOSTNAME !"
 sudo apt update
 sudo apt install -y apache2
 sudo ufw allow 'Apache'
