@@ -13,9 +13,7 @@
               "https://github.com/trjones841/AzureApps/blob/master/autoscaledemo.sh"
             ],
             "commandToExecute": "bash autoscaledemo.sh"
-            "managedIdentity": {
-              "clientId": "ac999cec-3d01-47d5-8848-def25dbeb85c"
-            }
+            "managedIdentity": { "clientId": "ac999cec-3d01-47d5-8848-def25dbeb85c" }
           }
         }
       }
