@@ -23,7 +23,7 @@ echo '  ErrorLog ${APACHE_LOG_DIR}/error.log' | sudo tee -a /etc/apache2/sites-a
 echo '  CustomLog ${APACHE_LOG_DIR}/access.log combined' | sudo tee -a /etc/apache2/sites-available/mydomain.conf
 echo '</VirtualHost>' | sudo tee -a  /etc/apache2/sites-available/mydomain.conf
 #
-sudo a2ensite /etc/apache2/sites-available/mydomain_ssl.conf
+sudo a2ensite /etc/apache2/sites-available/mydomain.conf
 sudo a2dissite /etc/apache2/sites-available/000-default.conf
 sudo apache2ctl configtest
 sudo systemctl restart apache2

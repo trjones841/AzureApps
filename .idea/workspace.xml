@@ -29,8 +29,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/autoscaledemo.sh">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="525">
-              <caret line="36" column="54" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="54" />
+            <state relative-caret-position="327">
+              <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -59,10 +59,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-271" />
-    <option name="y" value="16" />
-    <option name="width" value="2191" />
-    <option name="height" value="1000" />
+    <option name="x" value="2182" />
+    <option name="y" value="105" />
+    <option name="width" value="1391" />
+    <option name="height" value="889" />
   </component>
   <component name="ProjectId" id="1b0Et0RpEdjW8rJdcjzZzQhNzFC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -126,11 +126,11 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-271" y="16" width="2191" height="1000" extended-state="0" />
+    <frame x="126" y="106" width="1391" height="889" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19049816" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3019006" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Version Control" />
       <window_info anchor="bottom" id="Python Console" />
@@ -169,8 +169,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/autoscaledemo.sh">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="525">
-          <caret line="36" column="54" selection-start-line="36" selection-start-column="54" selection-end-line="36" selection-end-column="54" />
+        <state relative-caret-position="327">
+          <caret line="25" column="51" selection-start-line="25" selection-start-column="51" selection-end-line="25" selection-end-column="51" />
         </state>
       </provider>
     </entry>
