@@ -34,8 +34,8 @@ sudo systemctl restart apache2
 echo '<VirtualHost *:443>' | sudo tee -a /etc/apache2/sites-available/mydomain_ssl.conf
 echo '  DocumentRoot /var/www/mydomain' | sudo tee -a /etc/apache2/sites-available/mydomain_ssl.conf
 echo '  SSLEngine on' | sudo tee -a /etc/apache2/sites-available/mydomain_ssl.conf
-echo '  SSLCertificateFile /etc/ssl/certs/ssl-cert-snakeoil.pem' | sudo tee -a /etc/apache2/sites-available/mydomain_ssl.conf
-echo '  SSLCertificateKeyFile /etc/ssl/private/ssl-cert-snakeoil.key' | sudo tee -a /etc/apache2/sites-available/mydomain_ssl.conf
+echo '  SSLCertificateFile /etc/ssl/certs/mydomain.crt' | sudo tee -a /etc/apache2/sites-available/mydomain_ssl.conf
+echo '  SSLCertificateKeyFile /etc/ssl/private/mydomain.key' | sudo tee -a /etc/apache2/sites-available/mydomain_ssl.conf
 echo '  ErrorLog ${APACHE_LOG_DIR}/error.log' | sudo tee -a /etc/apache2/sites-available/mydomain_ssl.conf
 echo '  CustomLog ${APACHE_LOG_DIR}/access.log combined' | sudo tee -a /etc/apache2/sites-available/mydomain_ssl.conf
 echo '</VirtualHost>' | sudo tee -a /etc/apache2/sites-available/mydomain_ssl.conf
