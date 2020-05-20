@@ -1,0 +1,27 @@
+resource "citrixadc_cluster" "tf_cluster" {
+  clid = 1
+  clip = "192.168.0.156"
+  hellointerval = 200
+
+  clusternode {
+    nodeid = 0
+    delay = 0
+    priority = 30
+    endpoint = "http://192.168.0.157"
+    backplane = "0/1/1"
+    ipaddress = "192.168.0.157"
+    tunnelmode = "NONE"
+    nodegroup = "DEFAULT_NG"
+  }
+  clusternode {
+    nodeid = 1
+    delay = 0
+    priority = 31
+    endpoint = "http://192.168.0.158"
+    backplane = "0/1/1"
+    ipaddress = "192.168.0.158"
+    tunnelmode = "NONE"
+    nodegroup = "DEFAULT_NG"
+  }
+  state = "ACTIVE"
+}

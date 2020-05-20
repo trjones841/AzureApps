@@ -1,4 +1,7 @@
 
 .idea/
 
-mydomain\.csr
+mydomain.csr
+mydomain.crt
+mydomain.key
+cluster_terraform.yml
