@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a74caf67-39d7-444e-8988-52d46b27d82e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/cluster_terraform.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/servicegroup-dsapi.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,12 +12,6 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="2111" />
-    <option name="y" value="94" />
-    <option name="width" value="1651" />
-    <option name="height" value="889" />
   </component>
   <component name="ProjectId" id="1b0Et0RpEdjW8rJdcjzZzQhNzFC" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -47,7 +40,10 @@
       <option name="presentableId" value="Default" />
       <updated>1587760821614</updated>
       <workItem from="1587760827480" duration="2176000" />
-      <workItem from="1590015622442" duration="372000" />
+      <workItem from="1590015622442" duration="1177000" />
+      <workItem from="1590080179980" duration="6000" />
+      <workItem from="1590080492699" duration="887000" />
+      <workItem from="1590081743626" duration="10000" />
     </task>
     <servers />
   </component>
