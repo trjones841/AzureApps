@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a74caf67-39d7-444e-8988-52d46b27d82e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/servicegroup-dsapi.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/basic_apache_web_service.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -44,6 +44,8 @@
       <workItem from="1590080179980" duration="6000" />
       <workItem from="1590080492699" duration="887000" />
       <workItem from="1590081743626" duration="10000" />
+      <workItem from="1590689565791" duration="1287000" />
+      <workItem from="1594146602259" duration="15000" />
     </task>
     <servers />
   </component>
